@@ -1,5 +1,3 @@
-apps.js
-
 const numberStr = prompt('Please input your number')
 const number = Number(numberStr)
 const result1 = triple(number)
